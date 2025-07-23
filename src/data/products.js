@@ -1,6 +1,13 @@
 const products = [
   {
     id: 1,
+    name: "concrete flowers",
+    imageUrl: "/images/s5.png", // GANTI dengan URL gambar asli baju Anda
+    robloxLink: "https://www.roblox.com/catalog/74580248442211",
+    price: "R$ 5", // GANTI dengan link baju Roblox Anda
+  },
+  {
+    id: 1,
     name: "Los Angeles",
     imageUrl: "/images/s4.png", // GANTI dengan URL gambar asli baju Anda
     robloxLink: "https://www.roblox.com/catalog/118022102375454",
