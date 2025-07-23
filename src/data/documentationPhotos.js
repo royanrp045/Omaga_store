@@ -1,6 +1,11 @@
 // src/data/documentationPhotos.js
 const documentationPhotos = [
   {
+    id: 6,
+    imageUrl: "/images/dokum6.png",
+    caption: "Party dengan outfit kece",
+  },
+  {
     id: 1,
     imageUrl: "/images/1.png", // GANTI dengan URL gambar dokumentasi Anda di public/images/
     caption: "Desain Eksklusif Terbaru",
@@ -34,11 +39,6 @@ const documentationPhotos = [
     id: 6,
     imageUrl: "/images/dokum1.png",
     caption: "Fashion untuk Petualangan Anda",
-  },
-  {
-    id: 6,
-    imageUrl: "/images/dokum6.png",
-    caption: "Party dengan outfit kece",
   },
 ];
 
