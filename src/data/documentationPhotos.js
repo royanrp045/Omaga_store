@@ -35,6 +35,11 @@ const documentationPhotos = [
     imageUrl: "/images/dokum1.png",
     caption: "Fashion untuk Petualangan Anda",
   },
+  {
+    id: 6,
+    imageUrl: "/images/dokum6.png",
+    caption: "Party dengan outfit kece",
+  },
 ];
 
 export default documentationPhotos;
