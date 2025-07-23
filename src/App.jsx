@@ -74,7 +74,7 @@ function App() {
       </section>
 
       <footer className="bg-cardbg py-6 text-center text-gray-400 text-sm">
-        <p>&copy; 2025 MyRobloxGear. All rights reserved.</p>
+        <p>&copy; 2025 Omaga Store. All rights reserved.</p>
       </footer>
 
       <ImageModal
