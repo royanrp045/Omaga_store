@@ -1,6 +1,34 @@
 const products = [
   {
     id: 1,
+    name: "Pink Love",
+    imageUrl: "/images/s8.png", // GANTI dengan URL gambar asli baju Anda
+    robloxLink: "https://www.roblox.com/catalog/122409611073547",
+    price: "R$ 5", // GANTI dengan link baju Roblox Anda
+  },
+  {
+    id: 1,
+    name: "buston gray paradise",
+    imageUrl: "/images/s10.png", // GANTI dengan URL gambar asli baju Anda
+    robloxLink: "https://www.roblox.com/catalog/97430070690163",
+    price: "R$ 5", // GANTI dengan link baju Roblox Anda
+  },
+  {
+    id: 1,
+    name: "Do what you love",
+    imageUrl: "/images/s9.png", // GANTI dengan URL gambar asli baju Anda
+    robloxLink: "https://www.roblox.com/catalog/115738127823654",
+    price: "R$ 5", // GANTI dengan link baju Roblox Anda
+  },
+  {
+    id: 1,
+    name: "Lois Vution",
+    imageUrl: "/images/s7.png", // GANTI dengan URL gambar asli baju Anda
+    robloxLink: "https://www.roblox.com/catalog/107732227908383",
+    price: "R$ 5", // GANTI dengan link baju Roblox Anda
+  },
+  {
+    id: 1,
     name: "Harry Potter",
     imageUrl: "/images/s6.png", // GANTI dengan URL gambar asli baju Anda
     robloxLink: "https://www.roblox.com/catalog/92556965846461",
