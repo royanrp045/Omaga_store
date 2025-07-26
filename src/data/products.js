@@ -1,7 +1,7 @@
 const products = [
   {
     id: 1,
-    name: "I have a boy friend",
+    name: "long sleeve emo crop",
     imageUrl: "/images/s13.png", // GANTI dengan URL gambar asli baju Anda
     robloxLink: "https://www.roblox.com/catalog/112588977511669",
     price: "R$ 5", // GANTI dengan link baju Roblox Anda
