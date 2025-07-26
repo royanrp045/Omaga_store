@@ -1,6 +1,27 @@
 const products = [
   {
     id: 1,
+    name: "I have a boy friend",
+    imageUrl: "/images/s13.png", // GANTI dengan URL gambar asli baju Anda
+    robloxLink: "https://www.roblox.com/catalog/112588977511669",
+    price: "R$ 5", // GANTI dengan link baju Roblox Anda
+  },
+  {
+    id: 1,
+    name: "I have a boy friend",
+    imageUrl: "/images/s12.png", // GANTI dengan URL gambar asli baju Anda
+    robloxLink: "https://www.roblox.com/catalog/117096828248087",
+    price: "R$ 5", // GANTI dengan link baju Roblox Anda
+  },
+  {
+    id: 1,
+    name: "I have a girl friend",
+    imageUrl: "/images/s11.png", // GANTI dengan URL gambar asli baju Anda
+    robloxLink: "https://www.roblox.com/catalog/125105811963659",
+    price: "R$ 5", // GANTI dengan link baju Roblox Anda
+  },
+  {
+    id: 1,
     name: "Pink Love",
     imageUrl: "/images/s8.png", // GANTI dengan URL gambar asli baju Anda
     robloxLink: "https://www.roblox.com/catalog/122409611073547",
