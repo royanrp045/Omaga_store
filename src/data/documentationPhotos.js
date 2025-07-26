@@ -2,6 +2,16 @@
 const documentationPhotos = [
   {
     id: 6,
+    imageUrl: "/images/dokum7.png",
+    caption: "Fashion best",
+  },
+  {
+    id: 6,
+    imageUrl: "/images/dokum8.png",
+    caption: "wooow perfect",
+  },
+  {
+    id: 6,
     imageUrl: "/images/dokum6.png",
     caption: "Party dengan outfit kece",
   },

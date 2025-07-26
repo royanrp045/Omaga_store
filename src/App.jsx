@@ -35,7 +35,7 @@ function App() {
 
       <main id="products-section" className="container mx-auto px-4 py-12">
         <h2 className="text-4xl font-extrabold mb-10 text-center md:text-left">
-          Koleksi Terbaik Kami
+          Our Best Collection
         </h2>
 
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-6">
@@ -58,7 +58,7 @@ function App() {
       <section className="bg-darkbg py-12">
         <div className="container mx-auto px-4">
           <h2 className="text-4xl font-extrabold mb-10 text-center text-white">
-            Apa Kata Mereka?
+            Testimonials
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {reviews.map(

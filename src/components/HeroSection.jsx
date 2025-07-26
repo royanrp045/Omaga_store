@@ -20,17 +20,17 @@ const HeroSection = () => {
 
       <div className="absolute inset-0 flex flex-col justify-end p-8 text-white">
         <h2 className="text-4xl sm:text-5xl font-extrabold mb-4 drop-shadow-lg">
-          Koleksi Baju Roblox Terbaik
+          The best Roblox outfits collection
         </h2>
         <p className="text-base sm:text-lg mb-6 text-gray-200 drop-shadow">
-          Temukan outfit paling keren untuk avatar Roblox Anda di sini!
+          Discover the best outfits for your Roblox avatar right here!
         </p>
 
         <button
           onClick={handleScrollToProducts}
           className="bg-primary hover:bg-primaryDark text-white font-bold py-3 px-8 rounded-md text-lg transition-colors self-start shadow-lg hover:shadow-xl"
         >
-          Lihat Semua Produk
+          View All Products
         </button>
       </div>
     </section>

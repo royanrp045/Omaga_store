@@ -7,7 +7,7 @@ const DocumentationGallery = ({ photos, onImageClick }) => {
     <section className="bg-darkbg py-12">
       <div className="container mx-auto px-4">
         <h2 className="text-4xl font-extrabold mb-10 text-center text-white">
-          Galeri Dokumentasi Keren
+          Documentation Gallery
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
           {photos.map((photo, index) => {
