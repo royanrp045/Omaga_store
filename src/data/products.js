@@ -1,6 +1,13 @@
 const products = [
   {
     id: 1,
+    name: "Hogwarts Jersey Red",
+    imageUrl: "/images/s14.png", // GANTI dengan URL gambar asli baju Anda
+    robloxLink: "https://www.roblox.com/catalog/99191678816393",
+    price: "R$ 5", // GANTI dengan link baju Roblox Anda
+  },
+  {
+    id: 1,
     name: "long sleeve emo crop",
     imageUrl: "/images/s13.png", // GANTI dengan URL gambar asli baju Anda
     robloxLink: "https://www.roblox.com/catalog/112588977511669",
