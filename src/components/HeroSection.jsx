@@ -2,16 +2,9 @@
 import React from "react";
 
 const HeroSection = () => {
-  const handleScrollToProducts = () => {
-    const productsSection = document.getElementById("products-section");
-    if (productsSection) {
-      productsSection.scrollIntoView({ behavior: "smooth" });
-    }
-  };
-
   return (
     <section
-      className="relative h-96 bg-cover bg-center rounded-b-xl shadow-xl animate-fade-in" // Tambahkan animate-fade-in
+      className="relative h-96 bg-cover bg-center rounded-b-xl shadow-xl animate-fade-in"
       style={{
         backgroundImage: "url('/images/1.png')",
       }}
@@ -26,12 +19,14 @@ const HeroSection = () => {
           Discover the best outfits for your Roblox avatar right here!
         </p>
 
-        <button
-          onClick={handleScrollToProducts}
+        <a
+          href="https://www.roblox.com/catalog?Category=1&CreatorName=Erpee37&salesTypeFilter=1" // Add your desired link here
+          target="_blank" // Opens the link in a new tab
+          rel="noopener noreferrer" // Security best practice
           className="bg-primary hover:bg-primaryDark text-white font-bold py-3 px-8 rounded-md text-lg transition-colors self-start shadow-lg hover:shadow-xl"
         >
           View All Products
-        </button>
+        </a>
       </div>
     </section>
   );
